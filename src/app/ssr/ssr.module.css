@@ -1,0 +1,12 @@
+.container {
+    color: var(--font-color-primary); 
+    font-size: 1.2rem;
+  }
+  
+  .title {
+    color: var(--font-color-accent); 
+  }
+  
+  .text {
+    color: var(--font-color-secondary); 
+  }
